@@ -2,7 +2,7 @@
 
 DocNest è un’applicazione Windows per lavorare con PDF, scansioni, immagini e documenti d’ufficio in un unico spazio.
 
-![DocNest](media/docnest-cover.png)
+![DocNest](media/docnest-app-schermata-1.png)
 
 ## Cosa offre
 
