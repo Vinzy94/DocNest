@@ -16,9 +16,9 @@ DocNest è un’applicazione Windows per lavorare con PDF, scansioni, immagini e
 
 ## Versione disponibile
 
-La release pubblicata è la **0.4.1**. Il pacchetto installabile contiene l’app e i componenti OCR per italiano e inglese.
+La release pubblicata è la **0.4.2**. Il pacchetto installabile contiene l’app e i componenti OCR per italiano e inglese.
 
-Scarica il setup dal [server ufficiale](https://www.vr-m.it/app/pdf/servizio/DocNest-Setup-0.4.1-x64.exe).
+Scarica il setup dal [server ufficiale](https://www.vr-m.it/app/pdf/servizio/DocNest-Setup-0.4.2-x64.exe).
 
 ## Articolo di presentazione
 
