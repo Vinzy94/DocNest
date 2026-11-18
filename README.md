@@ -20,6 +20,10 @@ La release pubblicata è la **0.4.0**. Il pacchetto installabile contiene l’ap
 
 Scarica il setup dal [server ufficiale](https://www.vr-m.it/app/pdf/servizio/DocNest-Setup-0.4.0-x64.exe).
 
+## Articolo di presentazione
+
+Leggi l’articolo completo: [DocNest: uno spazio di lavoro per riordinare, trasformare e completare i documenti](https://www.vr-m.it/sito/2026/11/18/docnest-uno-spazio-di-lavoro-per-riordinare-trasformare-e-completare-i-documenti/).
+
 ## Collaborazioni aziendali
 
 Il repository presenta il prodotto senza codice sorgente. Sono disponibili collaborazioni con aziende e organizzazioni per sviluppare il codice, integrare flussi dedicati, personalizzare il funzionamento e adattare logo e identità visiva.
@@ -28,8 +32,8 @@ Per informazioni: **Vincenzo Rosario Mellone** · [info@vr-m.it](mailto:info@vr-
 
 ## Materiali
 
-- [Descrizione del progetto](DocNest-descrizione-progetto.md)
-- [Immagini per l’articolo](media/)
+- [Descrizione del progetto in italiano](DocNest-descrizione-progetto.md)
+- [Project description in English](DocNest-project-description-en.md)
 - [Licenza DocNest](LICENSE.md)
 
 ## Note
